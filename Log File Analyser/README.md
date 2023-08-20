@@ -1,7 +1,7 @@
 ## Log Analysis Python Script
 
-# The is a simple Python script that allows a cybersecurity analyst or anyone needing to search log files to look for specific strings or patterns. Simply import a log file and search for specific patterns using regular expressions.
-# If matching entries are found, they will be displayed in the terminal. If no matching entries are found, a message indicating that will be displayed.
+The is a simple Python script that allows a cybersecurity analyst or anyone needing to search log files to look for specific strings or patterns. Simply import a log file and search for specific patterns using regular expressions.
+If matching entries are found, they will be displayed in the terminal. If no matching entries are found, a message indicating that will be displayed.
 
 
 ## Prerequisites
