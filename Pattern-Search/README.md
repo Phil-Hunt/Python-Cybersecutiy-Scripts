@@ -4,13 +4,13 @@ This is a simple Python program that allows a cyber security analyst or anyone w
 
 ## How to Use
 
-1. Clone this repository to your local machine or download the `pattern_finder.py` script.
+1. Clone this repository to your local machine or download the `pattern_search.py` script.
 
 2. Make sure you have Python installed on your machine. You can download it from the official Python website: [Python Downloads](https://www.python.org/downloads/)
 
-3. Open a terminal or command prompt and navigate to the directory where you have saved the `pattern_finder.py` script.
+3. Open a terminal or command prompt and navigate to the directory where you have saved the `pattern_search.py` script.
 
-4. Run the program by entering the following command: python pattern_finder.py ### (FYI if 'python pattern_finder.py' doesnt work try 'python3 pattern_finder.py')
+4. Run the program by entering the following command: python pattern_search.py ### (FYI if 'python pattern_search.py' doesnt work try 'python3 pattern_search.py')
 
 5. The program will prompt you to enter the path to the file you want to analyze. Provide the full path, including the file name and extension (e.g., C:\Documents\sample.txt).
 
@@ -25,7 +25,7 @@ After analyzing the file, the program will display the results for each pattern 
 
 ## Customizing Patterns
 
-If you want to search for additional patterns or modify the existing ones, you can do so by editing the pattern_finder.py script. In the find_patterns_in_file function, you'll find a section where the regular expression patterns are defined. You can add, remove, or modify patterns as needed.
+If you want to search for additional patterns or modify the existing ones, you can do so by editing the pattern_search.py script. In the find_patterns_in_file function, you'll find a section where the regular expression patterns are defined. You can add, remove, or modify patterns as needed.
 
 ## Example Usage
 
