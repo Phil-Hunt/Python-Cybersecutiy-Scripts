@@ -38,8 +38,11 @@ IP addresses: 192.168.1.1, 10.0.0.1
 When you run the program and provide the path to sample.txt, you will get output similar to the following:
 
 Enter the path to the file to analyze: sample.txt
+
 Email addresses found: ['support@example.com']
+
 IP addresses found: ['192.168.1.1', '10.0.0.1']
+
 URLs found: ['https://www.example.com']
 
 Contributions to this project are welcome! If you have ideas for improvements or additional features, feel free to fork this repository and submit a pull request!
